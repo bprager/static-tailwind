@@ -17,3 +17,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial version
 - Changelog
 
+
+## [0.1.1] - Thu Oct 10 15:35:08 PDT 2024
+
+### Added
+
+- Oxlint
