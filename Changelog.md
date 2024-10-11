@@ -24,3 +24,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Oxlin
 - Some elemements to `index.html`
+- Add prettier plugins [prettier-plugin-tailwindcss, prettier-plugin-organize-imports]
+
